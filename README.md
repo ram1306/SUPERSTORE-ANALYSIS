@@ -1,4 +1,5 @@
 Global Superstore sales of the year 2021 - 2022
+Global Superstore sales of the year 2021 - 2022
 Here's a summary of the Global Superstore sales for the year 2021-2022 
 The dashboard provides an overview of key sales metrics, including total revenue, profit, items sold, and shipping costs.
 The data is analyzed by year-over-year (2021-2022), by region, by customer, by product, and by salesperson.
@@ -122,6 +123,45 @@ How does the influence of "Sum of Total Revenue" vary across different segments 
 
 Overall Summary:
 The graph provides a visual representation of the key factors that drive an increase in the number of items sold. The analysis suggests that "Sum of Total Revenue" is the primary influencer, with specific thresholds likely playing a significant role. However, more information is needed to draw definitive conclusions and understand the nuances of the relationship between these variables.
+The next page follow here 
+Count of Region and Count of Salesperson
+![Screenshot 2024-08-23 224221](https://github.com/user-attachments/assets/8315354b-d306-4934-81e7-83ee5bf90aef)
+
+Understanding the Data:
+The visualization seems to be analyzing sales data for four regions: South West, North East, South West, and North West. It presents two key metrics:
+
+Count of Region: This metric likely represents the total number of sales transactions in each region.
+Count of Salesperson: This metric indicates the number of salespeople active in each region.
+Interpreting the Visuals:
+
+Bar Chart (Count of Region): This chart visually represents the distribution of sales transactions across different regions. The height of each bar indicates the number of sales in that region.
+Pie Chart (Count of Salesperson): This chart illustrates the distribution of salespeople among the regions. The size of each segment represents the proportion of salespeople in that region.
+Key Insights:
+
+Based on the limited information provided in the visualization, here are some potential insights:
+
+Sales Activity: The bar chart suggests that the South West region has the highest number of sales transactions, followed by the North West. The North East and South West regions have relatively lower sales activity.
+Salesperson Distribution: The pie chart indicates that the South East region has the largest number of salespeople, followed by the North West. The North East and South West regions have fewer salespeople.
+Correlation: There might be a correlation between the number of sales transactions and the number of salespeople in each region. However, without specific values and statistical analysis, it's difficult to confirm this relationship.
+Additional Questions:
+
+To gain a deeper understanding of the data, it would be helpful to have more context and specific values. Some questions that could be answered by the data include:
+
+What is the total sales revenue for each region?
+Are there any significant differences in the average sales value per transaction across regions?
+How does the sales performance of each region compare over time?
+Overall Summary:
+
+The visualization provides a basic overview of the sales activity and salesperson distribution across different regions. However, to draw more meaningful conclusions, additional information and analysis are needed. By addressing the questions above, it would be possible to gain a more comprehensive understanding of the regional sales performance and identify areas for improvement.
+
+
+
+
+
+
+
+
+
 
 
 
