@@ -42,9 +42,11 @@ This dashboard is designed to help the Global Superstore optimize its sales and 
 --Implication: Developing strategies to mitigate seasonal dips and capitalize on peak periods can help stabilize and maximize revenue throughout the year.
 
 
+**STEP-1**
 
 **The dashboard provides an overview of key sales metrics, including total revenue, profit, items sold, and shipping costs.
 The data is analyzed by year-over-year (2021-2022), by region, by customer, by product, and by salesperson.**
+
 ![home page](https://github.com/user-attachments/assets/8150c5e8-7843-4340-9c10-bbdc95ca585f)
 
 **Key Findings**
@@ -114,7 +116,7 @@ The data is analyzed by year-over-year (2021-2022), by region, by customer, by p
 The Global Superstore saw a significant increase in sales and profit in 2022 compared to 2021. The South East region, along with specific products and customers, were major contributors to this growth. Areas identified for improvement include boosting sales in the North East region and addressing less profitable products and customers.
 
 
- 
+ **STEP-2**
 ![bar graph](https://github.com/user-attachments/assets/afd33943-977d-44a4-9de0-88a969d60b5e)
 
  It focuses on identifying key factors that influence an increase in the number of items sold ("No.Items").
@@ -163,7 +165,7 @@ To gain a deeper understanding of the analysis, consider addressing the followin
 
 The analysis provides a visual representation of the key factors driving an increase in the number of items sold. It suggests that "Sum of Total Revenue" is the primary influencer, with specific thresholds likely playing a significant role. However, additional context and specific values are needed to draw definitive conclusions and fully understand the nuances of the relationship between these variables.
 
-
+**STEP-3**
  
 **COUNT FO SALESPERSONS AND SUM OF NO.ITEMS BY PRODUCT**
 ![Screenshot 2024-08-23 225633](https://github.com/user-attachments/assets/e2d00a9b-c063-4ade-b791-4ee9eeb391e0)
@@ -224,7 +226,7 @@ Product Comparisons:
 
 The visualization provides a basic overview of sales performance for the three products in terms of salesperson involvement and sales volume. To draw more meaningful conclusions, additional context and detailed analysis are required. By addressing the questions listed above, you can gain a more comprehensive understanding of the factors influencing product sales and identify potential areas for improvement.
 
-
+**STEP-4**
 ![pie chart](https://github.com/user-attachments/assets/b726e49e-6d2f-4b79-bf7f-6a37e3462f4c)
  
 **Key Findings**
@@ -287,7 +289,7 @@ Explore market trends, consumer preferences, and economic factors influencing pr
 This report provides a visual representation of the distribution of product count across different regions. The data is presented using a pie chart to facilitate easy comparison and analysis.
 
 
-
+**STEP-5**
 
 ![Screenshot 2024-08-23 224221](https://github.com/user-attachments/assets/8315354b-d306-4934-81e7-83ee5bf90aef)
 **Understanding the Data**
@@ -337,7 +339,7 @@ To gain a deeper understanding of the data, consider exploring the following que
 The visualization provides a basic overview of sales activity and salesperson distribution across regions. However, to draw more meaningful conclusions, additional information and analysis are required. Addressing the questions above will help gain a more comprehensive understanding of regional sales performance and identify areas for improvement.
 
 
-
+**STEP-6**
 ![Screenshot 2024-08-23 231900](https://github.com/user-attachments/assets/f52259ad-13b1-4a9d-b267-b8ed9e0f4b4d)
 
 **Understanding the Data:**
